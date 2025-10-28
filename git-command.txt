@@ -1,0 +1,21 @@
+ 2  du -h
+    3  df -h
+    4  clear
+    5  ls
+    6  cd Downloads/
+    7  ls
+    8  sudo dkpg -i code_1.105.1-1760482543_amd64.deb 
+    9  git status
+   10  git add testing.py 
+   11  git status
+   12  clear
+   13  git commit -m "added testing files"
+   14  git status
+   15  git commit -m "added testing files"
+   16  git config --global user.email "faizankhan123206@gmail.com"
+   17  git config --global user.name "md-faizan-repo"
+   18  git commit -m "added testing files"
+   19  git status
+   20  history
+
+   
