@@ -18,4 +18,6 @@
    19  git status
    20  history
 
-   
+   33  git remote -v
+   34  git push -u origin main
+   35  git push
